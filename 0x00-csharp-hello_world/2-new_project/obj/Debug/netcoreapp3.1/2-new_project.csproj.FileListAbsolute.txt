@@ -1,0 +1,13 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/bin/Debug/netcoreapp3.1/2-new_project
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/bin/Debug/netcoreapp3.1/2-new_project.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/bin/Debug/netcoreapp3.1/2-new_project.runtimeconfig.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/bin/Debug/netcoreapp3.1/2-new_project.runtimeconfig.dev.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/bin/Debug/netcoreapp3.1/2-new_project.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/bin/Debug/netcoreapp3.1/2-new_project.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/obj/Debug/netcoreapp3.1/2-new_project.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/obj/Debug/netcoreapp3.1/2-new_project.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/obj/Debug/netcoreapp3.1/2-new_project.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/obj/Debug/netcoreapp3.1/2-new_project.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/obj/Debug/netcoreapp3.1/2-new_project.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/obj/Debug/netcoreapp3.1/2-new_project.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/2-new_project/obj/Debug/netcoreapp3.1/2-new_project.genruntimeconfig.cache
