@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Alph(string[] args)
+    static void Main(string[] args)
     {
         for (char x = 'a'; x <= 'z'; x++)
             Console.Write(x);
