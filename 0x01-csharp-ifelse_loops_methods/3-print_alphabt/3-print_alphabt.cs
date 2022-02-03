@@ -1,7 +1,7 @@
 using System;
 class Program
 {
-    static void Alphabt(string[] args)
+    static void Main(string[] args)
     {
         for (char x = 'a'; x <= 'z'; x++)
         {
