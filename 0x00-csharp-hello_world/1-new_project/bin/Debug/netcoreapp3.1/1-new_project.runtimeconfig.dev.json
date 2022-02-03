@@ -2,7 +2,8 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "/home/mutanteris/.dotnet/store/|arch|/|tfm|",
-      "/home/mutanteris/.nuget/packages"
+      "/home/mutanteris/.nuget/packages",
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ]
   }
 }

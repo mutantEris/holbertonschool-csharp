@@ -13,6 +13,9 @@
         "packagesPath": "/home/mutanteris/.nuget/packages/",
         "outputPath": "/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x00-csharp-hello_world/1-new_project/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/home/mutanteris/.nuget/NuGet/NuGet.Config"
         ],
