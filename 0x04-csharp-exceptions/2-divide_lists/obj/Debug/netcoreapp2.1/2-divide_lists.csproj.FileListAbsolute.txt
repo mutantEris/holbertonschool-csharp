@@ -1,0 +1,12 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp2.1/2-divide_lists.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp2.1/2-divide_lists.runtimeconfig.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp2.1/2-divide_lists.runtimeconfig.dev.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp2.1/2-divide_lists.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/bin/Debug/netcoreapp2.1/2-divide_lists.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/2-divide_lists/obj/Debug/netcoreapp2.1/2-divide_lists.genruntimeconfig.cache

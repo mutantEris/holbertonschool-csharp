@@ -1,0 +1,12 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.runtimeconfig.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.runtimeconfig.dev.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/bin/Debug/netcoreapp2.1/4-throw_exception_msg.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x04-csharp-exceptions/4-throw_exception_msg/obj/Debug/netcoreapp2.1/4-throw_exception_msg.genruntimeconfig.cache
