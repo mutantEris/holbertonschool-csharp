@@ -1,0 +1,12 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.runtimeconfig.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.runtimeconfig.dev.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/bin/Debug/netcoreapp2.1/11-linkedlist_sum.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/11-linkedlist_sum/obj/Debug/netcoreapp2.1/11-linkedlist_sum.genruntimeconfig.cache
