@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>Zombie</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Zombie health</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>Zombie</summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>Undead Regeneration</summary>
+        </member>
+    </members>
+</doc>

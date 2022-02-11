@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>Enemies</summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>name</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>Zombie Health</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>Zombie Health More Than 0</summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>Unholy Resurrection</summary>
+        </member>
+    </members>
+</doc>

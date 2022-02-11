@@ -1,0 +1,13 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.xml
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.runtimeconfig.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.runtimeconfig.dev.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x06-csharp/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.genruntimeconfig.cache
