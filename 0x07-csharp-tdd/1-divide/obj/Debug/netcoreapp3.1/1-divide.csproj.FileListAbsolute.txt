@@ -1,0 +1,13 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.runtimeconfig.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.runtimeconfig.dev.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/bin/Debug/netcoreapp3.1/1-divide.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/1-divide/obj/Debug/netcoreapp3.1/1-divide.genruntimeconfig.cache
