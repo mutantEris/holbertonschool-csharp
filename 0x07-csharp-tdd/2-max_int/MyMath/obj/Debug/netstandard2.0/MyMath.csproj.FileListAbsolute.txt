@@ -1,0 +1,10 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/2-max_int/MyMath/obj/Debug/netstandard2.0/MyMath.pdb

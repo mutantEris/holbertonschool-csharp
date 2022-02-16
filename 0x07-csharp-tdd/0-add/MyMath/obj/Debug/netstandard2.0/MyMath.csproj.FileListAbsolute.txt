@@ -1,0 +1,9 @@
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csprojAssemblyReference.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.pdb
