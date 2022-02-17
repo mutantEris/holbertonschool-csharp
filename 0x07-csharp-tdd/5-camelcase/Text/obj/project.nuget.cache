@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gH6JzaORFyTLVLV8/WJslqk5dmIgidsBw1ecaCZN88IBj94o3sVO2YgW4C8Ln8KUaxkR0BpXyM7Oy+ji0VMs8w==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/Admin/Documents/GitHub/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text/Text.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

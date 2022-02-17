@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary> Stringly Bingly </summary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <summary> Checks For Uniques </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary> Stringle BINGLE </summary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <summary> Wednesday </summary>
+        </member>
+    </members>
+</doc>

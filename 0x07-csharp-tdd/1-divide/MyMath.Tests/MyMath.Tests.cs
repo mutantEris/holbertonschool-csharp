@@ -19,5 +19,11 @@ namespace MyMath.Tests
             Assert.AreEqual(Matrix.Divide(null, 2), null);
             Assert.AreEqual(Matrix.Divide(matrix, 0), null);
         }
+        [Test]
+        public void Test2()
+        {
+            int[,] matrix = null;
+            Assert.IsNull(MyMath.Matrix.Divide(matrix, 1));
+        }
     }
 }

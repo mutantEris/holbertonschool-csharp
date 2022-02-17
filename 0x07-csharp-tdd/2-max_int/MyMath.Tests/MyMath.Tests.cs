@@ -21,5 +21,10 @@ namespace MyMath.Tests
             List<int> list2 = new List<int>();
             Assert.AreEqual(Operations.Max(list2), 0);
         }
+        [Test]
+        public void Test3()
+        {
+            Assert.AreEqual(0, MyMath.Operations.Max(new List<int> {}));
+        }
     }
 }
