@@ -8,8 +8,8 @@ class VectorMath
         if (vector.Length < 2 || vector.Length > 3)
             return new double[] {-1};
         var x = new List<double>();
-        foreach (double g in vector)
-            x.Add(g*scalar);
+        foreach (double bubble in vector)
+            x.Add(bubble*scalar);
         return x.ToArray();
     }
 }
