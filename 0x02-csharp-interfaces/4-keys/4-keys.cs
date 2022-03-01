@@ -32,11 +32,12 @@ public class Door: Base, IInteractive{
 public class Decoration: Base, IInteractive, IBreakable
 {
 	/// <summary> Is quest item? </summary>
-	public bool isQuestItem {get; set;}
+	public bool isQuestItem{get; set;}
 	/// <summary> Item duribility </summary>
 	public int durability{get; set;}
 	/// <summary> Decoration constructor </summary>
-	public Decoration(string name="Decoration", int durability=1, bool isQuestItem=false){
+	public Decoration(string name="Decoration", int durability=1, bool isQuestItem=false)
+	{
 		this.name = name;
 		if (durability < 0)
 			throw new Exception("Durability must be greater than 0");
@@ -64,27 +65,27 @@ public class Decoration: Base, IInteractive, IBreakable
 		else
 			Console.WriteLine($"The {name} is already broken.");
     }
-    /// <summary> Key </summary>
-    public class Key: Base, ICollectable
+}
+/// <summary> Key </summary>
+public class Key: Base, ICollectable
+{
+    /// <summary> Has the key been collected </summary>
+    public bool isCollected {get; set;}
+    /// <summary> Key constructor </summary>
+	public Key(string name="Key", bool isCollected=false)
 	{
-	    /// <summary> Has the key been collected </summary>
-	    public bool isCollected {get; set;}
-	    /// <summary> Key constructor </summary>
-		public Key(string name="Key", bool isCollected=false)
+		this.name = name;
+		this.isCollected = isCollected;
+	}
+	/// <summary>Collect the key.</summary>
+	public void Collect()
+	{
+		if (!isCollected)
 		{
-			this.name = name;
-			this.isCollected = isCollected;
+			Console.WriteLine($"You pick up the {name}.");
+			isCollected = true;
 		}
-		/// <summary>Collect the key.</summary>
-		public void Collect()
-		{
-			if (!isCollected)
-			{
-				Console.WriteLine($"You pick up the {name}.");
-				isCollected = true;
-			}
-			else
-				Console.WriteLine($"You have already picked up the {name}.");
-		}
+		else
+			Console.WriteLine($"You have already picked up the {name}.");
 	}
 }
