@@ -64,28 +64,28 @@ public class Decoration: Base, IInteractive, IBreakable
 		else
 			Console.WriteLine($"The {name} is already broken.");
     }
-    /// <summary> Key </summary>
-    public class Key: Base, ICollectable
+}
+/// <summary> Key </summary>
+public class Key: Base, ICollectable
+{
+    /// <summary> Has the key been collected </summary>
+    public bool isCollected {get; set;}
+    /// <summary> Key constructor </summary>
+	public Key(string name="Key", bool isCollected=false)
 	{
-	    /// <summary> Has the key been collected </summary>
-	    public bool isCollected {get; set;}
-	    /// <summary> Key constructor </summary>
-		public Key(string name="Key", bool isCollected=false)
+		this.name = name;
+		this.isCollected = isCollected;
+	}
+	/// <summary>Collect the key.</summary>
+	public void Collect()
+	{
+		if (!isCollected)
 		{
-			this.name = name;
-			this.isCollected = isCollected;
+			Console.WriteLine($"You pick up the {name}.");
+			isCollected = true;
 		}
-		/// <summary>Collect the key.</summary>
-		public void Collect()
-		{
-			if (!isCollected)
-			{
-				Console.WriteLine($"You pick up the {name}.");
-				isCollected = true;
-			}
-			else
-				Console.WriteLine($"You have already picked up the {name}.");
-		}
+		else
+			Console.WriteLine($"You have already picked up the {name}.");
 	}
 }
 /// <summary> Interact with objects </summary>
