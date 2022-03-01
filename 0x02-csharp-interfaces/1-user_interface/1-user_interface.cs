@@ -3,7 +3,7 @@ using System;
 public abstract class Base
 {
 	/// <summary> Name of object </summary>
-	public string name;
+	public string name {get; set;}
 	/// <summary> String </summary>
 	public override string ToString() => $"{this.name} is a {this.GetType()}";
 }
