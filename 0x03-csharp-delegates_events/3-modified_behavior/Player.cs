@@ -62,4 +62,20 @@ public class Player
 			ValidateHP(this.hp -damage);
 		Console.WriteLine($"{name} takes {damage} damage!");
 	}
+    /// <summary> hp </summary>
+	public void ValidateHP(float newHp)
+    {
+		if (newHp < 0)
+			newHp = 0f;
+		if (newHp > this.maxHp)
+			newHp = this.maxHp;
+		this.hp = newHp;
+	}
+	/// <summary> modifiers </summary>
+	public float ApplyModifier(float baseValue, Modifier modifier)
+    {
+		if (modifier == Modifier.Weak)	{ return baseValue / 2; }
+		if (modifier == Modifier.Strong)	{ return baseValue * 1.5f; }
+		return baseValue;
+	}
 }
