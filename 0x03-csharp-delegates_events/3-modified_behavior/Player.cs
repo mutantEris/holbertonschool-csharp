@@ -1,16 +1,18 @@
 using System;
-/// <summary>Delegate for health changes.</summary>
+/// <summary>enum for modifiers</summary>
 public enum Modifier
 {
 	/// <summary> Baby </summary>
 	Weak,
-	/// <summary> Normal </summary>
+	/// <summary> normal </summary>
 	Base,
 	/// <summary> Mucho Macho Muchacho </summary>
 	Strong
 }
+
+/// <summary> modifier </summary>
 public delegate float CalculateModifier(float baseValue, Modifier modifier);
-/// <summary> Modifiers </summary>
+/// <summary> health changes </summary>
 public delegate void CalculateHealth(float hpInfo);
 /// <summary> The Player Itself </summary>
 public class Player
@@ -59,14 +61,5 @@ public class Player
 			damage = 0f;
 			ValidateHP(this.hp -damage);
 		Console.WriteLine($"{name} takes {damage} damage!");
-	}
-    /// <summary> Modifiers </summary>
-	public float ApplyModifier(float baseValue, Modifier modifier)
-    {
-		if (modifier == Modifier.Weak)
-            return baseValue / 2;
-		if (modifier == Modifier.Strong)
-            return baseValue * 1.5f;
-		return baseValue;
 	}
 }
