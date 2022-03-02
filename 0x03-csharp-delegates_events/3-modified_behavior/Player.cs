@@ -1,5 +1,16 @@
 using System;
 /// <summary>Delegate for health changes.</summary>
+public enum Modifier
+{
+	/// <summary> Baby </summary>
+	Weak,
+	/// <summary> Normal </summary>
+	Base,
+	/// <summary> Mucho Macho Muchacho </summary>
+	Strong
+}
+public delegate float CalculateModifier(float baseValue, Modifier modifier);
+/// <summary> Modifiers </summary>
 public delegate void CalculateHealth(float hpInfo);
 /// <summary> The Player Itself </summary>
 public class Player
@@ -58,15 +69,4 @@ public class Player
             return baseValue * 1.5f;
 		return baseValue;
 	}
-}
-public delegate float CalculateModifier(float baseValue, Modifier modifier);
-/// <summary> Modifiers </summary>
-public enum Modifier
-{
-	/// <summary> Baby </summary>
-	Weak,
-	/// <summary> Normal </summary>
-	Base,
-	/// <summary> Mucho Macho Muchacho </summary>
-	Strong
 }

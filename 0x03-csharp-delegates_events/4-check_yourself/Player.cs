@@ -1,4 +1,16 @@
 using System;
+/// <summary> Modifiers </summary>
+public enum Modifier
+{
+	/// <summary> Baby </summary>
+	Weak,
+	/// <summary> Normal </summary>
+	Base,
+	/// <summary> Mucho Macho Muchacho </summary>
+	Strong
+}
+public delegate float CalculateModifier(float baseValue, Modifier modifier);
+/// <summary> current hp </summary>
 /// <summary>Delegate for health changes.</summary>
 public delegate void CalculateHealth(float hpInfo);
 /// <summary> The Player Itself </summary>
@@ -79,18 +91,6 @@ public class Player
 		Console.WriteLine(status);
 	}
 }
-public delegate float CalculateModifier(float baseValue, Modifier modifier);
-/// <summary> Modifiers </summary>
-public enum Modifier
-{
-	/// <summary> Baby </summary>
-	Weak,
-	/// <summary> Normal </summary>
-	Base,
-	/// <summary> Mucho Macho Muchacho </summary>
-	Strong
-}
-/// <summary> current hp </summary>
 public class CurrentHPArgs: EventArgs
 {
 	/// <summary> CURRENT HP </summary>
